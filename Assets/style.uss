@@ -1,0 +1,44 @@
+.button {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(250, 237, 237, 0);
+    width: 60%;
+    height: 10%;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    font-size: 50px;
+    -unity-font-definition: url('project://database/Assets/GemunuLibre-VariableFont_wght%20SDF.asset?fileID=11400000&guid=7c67cd1848122c247be74b0d6edb77a9&type=2#GemunuLibre-VariableFont_wght SDF');
+    -unity-font-style: bold;
+    color: rgba(207, 202, 202, 255);
+}
+
+.button:hover {
+    transition-duration: 0.2s;
+    scale: 1.1 1;
+    background-color: rgba(255, 255, 255, 255);
+    color: rgba(0, 0, 0, 255);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e9695ab8c4d401d9667eb891740ee9e, type: 3}
+  m_Name: PIstol
+  m_EditorClassIdentifier: 
+  name: Pistol
+  dropObject: {fileID: 2352116003633323227, guid: 25654a0ffa08b6d4e9c60687b800f6a8,
+    type: 3}
+  useObject: {fileID: 7739069184254397705, guid: a12d077606d351d469f97e32e859d5ec,
+    type: 3}
+  ammo: 10
+  maxAmmo: 10
+  fireRate: 0.1
+  fireRange: 100
+  isContinuous: 0
+  damage: 30

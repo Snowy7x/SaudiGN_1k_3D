@@ -1,0 +1,17 @@
+- GameJam Idea:
+		- 2D minigames inside a 3D game.
+		- You have to escape from a space base.
+		- Goal: Escape needs a espical cube key to access the ship.
+	
+- Mehcanics:
+		- Shooting...
+		- Jumping
+		- Melee. [Extra]
+		- Spaceship controls. [Extra].
+
+- Features:
+		- Tasks system/Notifications.
+		- Doors system.
+		- voice over ? maybe [now way but who knows].
+		- Some suprises :skull:
+		- Door Locker effect on open [flash the material or smt]
